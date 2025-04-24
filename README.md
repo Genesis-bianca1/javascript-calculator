@@ -29,7 +29,7 @@ This is a good starting point for understanding *one of the many ways* on how to
 [GeeksforGeeks - JavaScript Calculator Tutorial](https://www.geeksforgeeks.org/javascript-calculator/)
 
 ## License:
-GPL License
+GNU License
 
 ## Tests:
 Currently under development.
